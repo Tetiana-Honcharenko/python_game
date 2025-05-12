@@ -27,7 +27,7 @@ python main.py
 ...
 ## 📸 Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](gameplay1.png)(gameplay2.png)
 
 ## 🎯 Was ich gelernt habe
 
