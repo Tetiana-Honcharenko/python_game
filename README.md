@@ -21,7 +21,8 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 ## 🚀 Projekt starten
 
 ```bash
-python main.py```
+python main.py
+```` ``` ````
 # python_game
 
 ## 📸 Screenshots
