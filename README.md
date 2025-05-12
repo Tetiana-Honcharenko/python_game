@@ -23,3 +23,20 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 ```bash
 python main.py
 # python_game
+
+...
+## 📸 Screenshots
+
+![Gameplay](screenshots/gameplay.png)
+
+## 🎯 Was ich gelernt habe
+
+- Strukturierung eines kleinen Python-Projekts  
+- Arbeit mit Benutzersteuerung und Koordinaten  
+- Erste Einblicke in Spielelogik und Interaktionen
+
+## 🔗 Projektdateien
+
+- `main.py`
+- `screenshots/gameplay1.png`
+- `screenshots/gameplay2.png`
