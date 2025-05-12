@@ -24,7 +24,6 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 python main.py
 # python_game
 
-...
 ## 📸 Screenshots
 
 ![Gameplay](gameplay1.png)(gameplay2.png)
