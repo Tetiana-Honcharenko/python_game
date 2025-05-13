@@ -18,8 +18,9 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 - Sammeln von Bonusobjekten für Punkte
 - Vermeidung von Gegnern (Game Over bei Kollision)
 
+```markdown
 ## 🚀 Projekt starten
-bash
+```bash
 python main.py
 # python_game
 
