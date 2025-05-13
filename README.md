@@ -20,7 +20,7 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 
 
 ## 🚀 Projekt starten
-```bash
+bash
 python main.py
 
 
