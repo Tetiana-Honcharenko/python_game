@@ -19,10 +19,8 @@ Dieses Projekt wurde als Teil meines Einstiegs in die IT entwickelt und zeigt me
 - Vermeidung von Gegnern (Game Over bei Kollision)
 
 ## 🚀 Projekt starten
-
-```bash
+bash
 python main.py
-```` ``` ````
 # python_game
 
 ## 📸 Screenshots
